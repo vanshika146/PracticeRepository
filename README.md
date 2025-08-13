@@ -1,4 +1,1 @@
-# PracticeRepository
-This is my first git repository
-<br>
-Author - Vanshika (IGDTUW)
+This is my second OST experiment
