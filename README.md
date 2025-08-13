@@ -1,4 +1,4 @@
 # PracticeRepository
 This is my first git repository
 <br>
-Author - Vanshika (Sinla)
+Author - Vanshika (IGDTUW)
